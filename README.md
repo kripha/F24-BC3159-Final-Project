@@ -1,5 +1,5 @@
 # KNN and KPIECE Algorithms
-
+## Kristine Pham and Thais I. Velazquez
 This repo contains the 
 - CPU and GPU implementations of KPIECE and KNN
 - Report on these two algorithms
